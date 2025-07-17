@@ -16,8 +16,8 @@ global.botNumber = '' //Ejemplo: 525218138672
 //*──ׄ✞ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['5215544876071', '🜲 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 👻', true],
-  ['5217971289909']
+  ['447418347824', '🜲 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 👻', true],
+  ['32460212369']
 ];
 
 //*─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
@@ -40,10 +40,10 @@ global.blackJadibts = true
 //*─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
 
 global.packsticker = `
-┃ ✞ 𝙱𝙾𝚃: 𝙱𝚕𝚊𝚌𝚔 𝙲𝚕𝚘𝚟𝚎𝚛 ☘
-┃ ✞ 𝙰𝚄𝚃𝙾𝚁: 👑 𝚃𝙷𝙴 𝙲𝙰𝚁𝙻𝙾𝚂 ᚲ`;
+┃ ✞ 𝙱𝙾𝚃: 𝙱𝚕𝚊𝚌𝚔 ☘
+┃ ✞ 𝙰𝚄𝚃𝙾𝚁: Viggo Tarasovᚲ`;
 
-global.packname = `✠ 𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘ `;
+global.packname = `✠ 𝕭𝖑𝖆𝖈𝖐 ☘ `;
 global.author = `
 ⇝ 📆 ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}
 ⇝ ⏰ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')}
@@ -51,12 +51,12 @@ global.author = `
 
 global.wm = '𝑩𝒍𝒂𝒄𝒌 𝑪𝒍𝒐𝒗𝒆𝒓 ☘';
 global.titulowm = '𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘';
-global.igfg = 'ᥫ𝐓𝐇𝐄 𝐂𝐀𝐑𝐋𝐎𝐒'
+global.igfg = 'ᥫKANIEL'
 global.botname = '𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ the Legends ⚡'
-global.textbot = '𝑩𝑳𝑨𝑪𝑲 𝑪𝑳𝑶𝑽𝑬𝑹  : 𝐓𝐇𝐄 𝐂𝐀𝐑𝐋𝐎𝐒'
+global.textbot = '𝑩𝑳𝑨𝑪𝑲 : ᥫKANIEL'
 global.gt = '͟͞𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘͟͞';
-global.namechannel = '𝑩𝑳𝑨𝑪𝑲 𝑪𝑳𝑶𝑽𝑬𝑹 / 𝐓𝐇𝐄 𝐂𝐀𝐑𝐋𝐎𝐒'
+global.namechannel = '𝑩𝑳𝑨𝑪𝑲 𝑪𝑳𝑶𝑽𝑬𝑹'
 
 //*─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
 
@@ -64,14 +64,14 @@ global.moneda = 'moneda'
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺  𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃𝐒 ™◞ • 🌿
 global.gp4 = 'https://chat.whatsapp.com/GrcUknwrJbNIXIIrbsuXc0?mode=ac_t' //Grupo Oficial De black clover 
-global.gp1 = 'https://chat.whatsapp.com/FiBcPMYEO7mG4m16gBbwpP' //Grupo 2
-global.gp2 = 'https://chat.whatsapp.com/G9zQlCHDBrn99wcC2FyWgm'//
-global.channel = 'https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w' //Canal Oficial
-global.channel2 = 'https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w' //Canal test 
-global.yt = 'https://www.youtube.com/@ElCarlos.87' //Canal De Youtube
+global.gp1 = 'https://chat.whatsapp.com/FcLYqI55BniIVwBxyNBs06?mode=ac_t' //Grupo 2
+global.gp2 = 'https://chat.whatsapp.com/FcLYqI55BniIVwBxyNBs06?mode=ac_t'//
+global.channel = 'https://chat.whatsapp.com/FcLYqI55BniIVwBxyNBs06?mode=ac_t' //Canal Oficial
+global.channel2 = 'https://chat.whatsapp.com/FcLYqI55BniIVwBxyNBs06?mode=ac_t' //Canal test 
+global.yt = 'https://chat.whatsapp.com/FcLYqI55BniIVwBxyNBs06?mode=ac_t' //Canal De Youtube
 global.md = 'https://github.com/thecarlos19/black-clover-MD' //Github Oficial
 global.correo = ''
-global.cn ='https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w';
+global.cn ='https://chat.whatsapp.com/FcLYqI55BniIVwBxyNBs06?mode=ac_t';
 
 //*─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
 
